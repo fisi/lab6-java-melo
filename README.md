@@ -11,8 +11,8 @@ pasado ese monto el banco cobrará el 0.5% de lo que tiene ahorrado cada mes y l
 en su estado de cuenta.
 
 Se pide:
-+ a) Se pide el programa en java usando la POO y el diagrama de clases.
-+ b) Generar un reporte que permita ver las operaciones, todos los cobros hechos por el banco
++ Se pide el programa en java usando la POO y el diagrama de clases.
++ Generar un reporte que permita ver las operaciones, todos los cobros hechos por el banco
 y su saldo final de un cliente específico dando su código de cuenta.
-+ c) El sistema debe avisar cuando un cliente quiera retirar un monto de dinero que no
++ El sistema debe avisar cuando un cliente quiera retirar un monto de dinero que no
 existe en su cuenta.
