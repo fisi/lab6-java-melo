@@ -1,4 +1,4 @@
-# LABORATORIO 6 DE PROGRAMACIÓN II #
+# Laboratorio 6 de Programación II #
 
 Un banco necesita un programa para controlar las cuentas de ahorros de sus clientes.
 Un cliente puede tener varias cuentas de ahorros.
